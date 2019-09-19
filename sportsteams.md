@@ -1,5 +1,7 @@
-## Most Valuable Sports Teams in 2019
+# Most Valuable Sports Teams in 2019
 I found [this graphic](https://howmuch.net/articles/worlds-most-valuable-sport-teams) of Forbes' [50 Most Valuable Sports Teams in 2019](https://www.forbes.com/sites/kurtbadenhausen/2019/07/22/the-worlds-50-most-valuable-sports-teams-2019/#26ebfab4283d). While this is not necessarily a bad data visualization, there were a few things that I thought could be improved. First of all, I did not realize initially that the different shades of blue were representative of different value levels. I didn't see the key or even notice the color coding until I had been studying the chart for a while. Second, for being published on a financial website, the chart didn't highlight the value of the teams as much as one would think. Third, while I do like being able to see the breakdown by sports league (soccer, NFL, MLB, NBA), I would prefer to see the full data in order and then color code by sports league.
+
+<iframe width="800" height="600" src="https://cdn.howmuch.net/articles/worlds-most-valuable-sport-teams-%283%29-6b94.jpg"></iframe>
 
 I began my process my sketching out a new version of this chart. 
 
