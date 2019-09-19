@@ -3,6 +3,7 @@ I found [this graphic](https://howmuch.net/articles/worlds-most-valuable-sport-t
 
 I began my process my sketching out a new version of this chart. 
 
+![Most Valuable Sports Teams in 2019 Sketch](sports-teams-sketch.jpg)
 
 <iframe title="50 Most Valuable Sports Teams in 2019" aria-label="Bar Chart" id="datawrapper-chart-WFzIM" src="//datawrapper.dwcdn.net/WFzIM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1690"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
