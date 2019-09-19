@@ -17,3 +17,6 @@ Source: RAW graphs [sample data](https://rawgraphs.io/)
 ### Datawrapper - Facebook likes
 We spent time in class learning how to use datawrapper to create professional visualizations. For this exercise, we used data from the Economist article in our week one homework to create a better graphic for the Jeremy Corbyn Facebook likes.
 <iframe title="Left-click" aria-label="Bar Chart" id="datawrapper-chart-xRJq2" src="//datawrapper.dwcdn.net/xRJq2/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="434"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
+## Critique by Design
+To view my critique by design assignment on the most valuable sports teams in 2019, [click here](https://ssimington.github.io/portfolio/sportsteams).
