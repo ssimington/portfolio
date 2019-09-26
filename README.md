@@ -13,3 +13,4 @@ In this class, I'm hoping to learn how to use different tools and resources to c
 * To view my in class exercises from 9/4/19, [click here](https://ssimington.github.io/portfolio/ice).
 * To view my data visulation assignment #2, [click here](https://ssimington.github.io/portfolio/dataviz2).
 * To view my critique by design assignment on the most valuable sports teams in 2019, [click here](https://ssimington.github.io/portfolio/sportsteams).
+* To view my final project, [click here](https://ssimington.github.io/portfolio/finalproject).
