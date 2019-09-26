@@ -14,3 +14,7 @@ Unfortunately, the teams' collective bargaining agreements are not publicly acce
 I plan to use this data to make comparisons between the two teams and illustrate exactly where any pay disparity occurs. One of the arguments for the lawsuit is based on the compensation earned by each team if each team were to win 20 international friendlies in a year. However, match records show that each team plays far fewer than 20 friendlies per year. I hope to investigate this argument and see if pay disparity still occurs at the teams' respective average friendly matches per year.
 
 ## Method & Medium
+
+
+testing bib
+<a href="https://docs.google.com/document/d/1ftre1Jz-AoPIcOrF2wkxFnN5bJl4_EClq8HZvA5iRuk/edit?usp=sharing" target="_blank">bib</a>
