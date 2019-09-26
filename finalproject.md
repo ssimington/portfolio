@@ -8,5 +8,8 @@ Resolution: Action is required by USSF to ensure equal pay.
 ## Sketches
 
 ## Data
+Unfortunately, the teams' collective bargaining agreements are not publicly accessible, so I had to collect data from a variety of sources, including news articles, financial statements and USSF's website. I have uploaded two data sets into my repository: match records for both teams from 2015-2018 and finance data compiled from news articles and financial statements. I've also uploaded a bibliography with all of the sources from my research.
+
+I plan to use this data to make comparisons between the two teams and illustrate exactly where any pay disparity occurs. One of the arguments for the lawsuit is based on the compensation earned by each team if each team were to win 20 international friendlies in a year. However, match records show that each team plays far fewer than 20 friendlies per year. I hope to investigate this argument and see if pay disparity still occurs at the teams' respective average friendly matches per year.
 
 ## Method & Medium
