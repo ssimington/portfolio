@@ -15,3 +15,6 @@ I plan to use this data to make comparisons between the two teams and illustrate
 
 ## Method & Medium
 I plan to use Shorthand to develop my project storyline. I will use tools from class such as Datawrapper, RAW graphs and Tableau to design my data visualizations. I am curious to see if I can develop some kind of interactive feature that will allow the viewer to input a certain number of matches and return the teams' respective compensation at that level. Ultimately, I would like to walk the audience through the arguments of the current lawsuit, illustrating the different data points along the way, and ask them to make a decision for themselves on what the court's finding should be.
+
+## Data Visualization Drafts
+<iframe title="Bonus for Making World Cup Roster" aria-label="Column Chart" id="datawrapper-chart-zfOqZ" src="//datawrapper.dwcdn.net/zfOqZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="349"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
