@@ -61,4 +61,4 @@ I used a google form to collect responses. To see my interview script, you can v
 
 ### User Research Findings
 
-### Updated Wireframe / St
+### Updated Wireframe / Storyboard
