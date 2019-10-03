@@ -27,29 +27,39 @@ I used <a href="https://balsamiq.com" target="_blank">Balsamiq</a> to create a w
 ### Data Visualization Drafts
 I created drafts of my data visualizations using <a href="https://datawrapper.de" target="_blank">Datawrapper</a> and <a href="https://infogram.com" target="_blank">Infogram</a>. You can refer to the wireframe above to see where each chart will fall in the presentation. (They're also listed in order here.) After receiving feedback, I will make revisions and publish the final versions in my Shorthand presentation.
 
+
 <iframe title="National Team Match Revenue" aria-label="Stacked Bars" id="datawrapper-chart-yO32W" src="//datawrapper.dwcdn.net/yO32W/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="195"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
 
 <iframe title="U.S. Soccer Match Compensation" aria-label="Interactive line chart" id="datawrapper-chart-RsL7U" src="//datawrapper.dwcdn.net/RsL7U/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
+
 <iframe title="USWNT Win Bonus with Base Salary" aria-label="Interactive line chart" id="datawrapper-chart-hcMMX" src="//datawrapper.dwcdn.net/hcMMX/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
 
 <iframe title="Match Type by Team" aria-label="Stacked Column Chart" id="datawrapper-chart-VnOJy" src="//datawrapper.dwcdn.net/VnOJy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="354"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
+
 <iframe title="Bonus for Making World Cup Roster" aria-label="Column Chart" id="datawrapper-chart-zfOqZ" src="//datawrapper.dwcdn.net/zfOqZ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="349"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
 
 <div class="infogram-embed" data-id="f1431cde-ad6e-4977-be66-03ceeed6c814" data-type="interactive" data-title="U.S. Soccer WC Bonuses"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/f1431cde-ad6e-4977-be66-03ceeed6c814" style="color:#989898!important;text-decoration:none!important;" target="_blank">U.S. Soccer WC Bonuses</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
+
 <div class="infogram-embed" data-id="5cad8ee6-245c-4236-9b1f-ca84b336a4e6" data-type="interactive" data-title="World Cup Winnings"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/5cad8ee6-245c-4236-9b1f-ca84b336a4e6" style="color:#989898!important;text-decoration:none!important;" target="_blank">World Cup Winnings</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
 
 <iframe title="National Team Expenses" aria-label="Interactive line chart" id="datawrapper-chart-sgy7P" src="//datawrapper.dwcdn.net/sgy7P/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 
 ### Mood Board
 I created a mood board of images, phrases and colors that inspired me for this project using <a href="https://canva.com" target="_blank">Canva</a>.
+
 ![Mood Board](USWNT-mood-board.png)
 
 ### Storyboard
 I also used <a href="https://canva.com" target="_blank">Canva</a> to create a storyboard for my project, illustrating what I expect the audience to feel during each point of my presentation as I use the data to persuade them along the way.
+
 ![Storyoard](equal-pay-storyboard.png)
 
 ### User Research Protocol
