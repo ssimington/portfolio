@@ -20,9 +20,13 @@ I plan to use Shorthand to develop my project storyline. I will use tools from c
 ## Part 2
 
 ### Wireframe
-![Final Project Wirefram](final-project-wireframe.png)
+I used <a href="https://balsamiq.com" target="_blank">Balsamiq</a> to create a wireframe of what my final project will look like in Shorthand. The actual data visualizations, explanations and images will be added in Shorthand.
+
+![Final Project Wireframe](final-project-wireframe.png)
 
 ### Data Visualization Drafts
+I created drafts of my data visualizations using <a href="https://datawrapper.de" target="_blank">Datawrapper</a> and <a href="https://infogram.com" target="_blank">Infogram</a>. You can refer to the wireframe above to see where each chart will fall in the presentation. (They're also listed in order here.) After receiving feedback, I will make revisions and publish the final versions in my Shorthand presentation.
+
 <iframe title="National Team Match Revenue" aria-label="Stacked Bars" id="datawrapper-chart-yO32W" src="//datawrapper.dwcdn.net/yO32W/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="195"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 <iframe title="U.S. Soccer Match Compensation" aria-label="Interactive line chart" id="datawrapper-chart-RsL7U" src="//datawrapper.dwcdn.net/RsL7U/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
@@ -40,16 +44,20 @@ I plan to use Shorthand to develop my project storyline. I will use tools from c
 <iframe title="National Team Expenses" aria-label="Interactive line chart" id="datawrapper-chart-sgy7P" src="//datawrapper.dwcdn.net/sgy7P/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 
-
-### Personas
-
 ### Mood Board
+I created a mood board of images, phrases and colors that inspired me for this project using <a href="https://canva.com" target="_blank">Canva</a>.
 ![Mood Board](USWNT-mood-board.png)
 
 ### Storyboard
+I also used <a href="https://canva.com" target="_blank">Canva</a> to create a storyboard for my project, illustrating what I expect the audience to feel during each point of my presentation as I use the data to persuade them along the way.
 ![Storyoard](equal-pay-storyboard.png)
 
 ### User Research Protocol
+My target audience is my Telling Stories with Data class, which is comprised of graduate students from Heinz College. These students come from many different places within the United States, as well as internationally. They are made up of a diverse mix of degree concentrations from arts management to public policy. Because of this diversity, they will have varying knowledge and interest in soccer and this specific lawsuit. I will have to avoid or explain sports jargon as well as financial lingo from the lawsuit (for instance - “friendly” for game and “CBA” for collective bargaining agreement).
+
+My approach in selecting representative individuals to interview is to select people with varying levels of knowledge about U.S. Women’s Soccer and this lawsuit in general. Before selecting who to interview, I will screen them based on how much they’ve been following the USWNT’s equal pay lawsuit to ensure that I don’t only interview people who know nothing about the lawsuit or vice versa as that could cause bias in the interview results (and therefore my final project).
+
+I used a google form to collect responses. To see my interview script, you can view the form<a href="https://docs.google.com/forms/d/e/1FAIpQLSdBDjBkMqPB_-fpbt8DoxVhjOaPZwCWGmWXpBSN_KHK5U0roQ/viewform" target="_blank">here</a>.
 
 ### User Research Findings
 
