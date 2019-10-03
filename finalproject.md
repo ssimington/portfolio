@@ -47,7 +47,7 @@ I plan to use Shorthand to develop my project storyline. I will use tools from c
 ![Mood Board](USWNT-mood-board.png)
 
 ### Storyboard
-![Storyoard](Equal Pay Storyboard.png)
+![Storyoard](equal-pay-storyboard.png)
 
 ### User Research Protocol
 
