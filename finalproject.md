@@ -44,6 +44,7 @@ I plan to use Shorthand to develop my project storyline. I will use tools from c
 ### Personas
 
 ### Mood Board
+![Mood Board](uswnt-mood-board.png)
 
 ### Storyboard
 
