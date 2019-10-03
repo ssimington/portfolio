@@ -70,5 +70,20 @@ My approach in selecting representative individuals to interview is to select pe
 I used a google form to collect responses. To see my interview script, you can view the form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBDjBkMqPB_-fpbt8DoxVhjOaPZwCWGmWXpBSN_KHK5U0roQ/viewform" target="_blank">here</a>.
 
 ### User Research Findings
+Of the three people I interviewed, one was a casual fan of USWNT, one follows the USWNT a little more closely, and the other is not a soccer fan at all. However, all three were aware of the lawsuit, but had not researched any of the data.
 
-### Updated Wireframe / Storyboard
+All three agreed that people with varying levels of knowledge about both soccer and the lawsuit would understand this presentation.
+
+Some findings from my interviews:
+* USWNT and USMNT look very similar when typed in the wireframe, so I'll need to look at spelling out the team names in my Shorthand presentaton subtitles.
+* The chart for win bonus with base salary is misleading because it only shows the women's base salary, but the men do not have one, so it's intentional and will be addressed in my final presentation.
+* In the FIFA World Cup Winnings chart, the women's circle gets larger when you click even though the number drops drastically (from $30 million to $4 million) and the men's circle stays the same. This is because the chart is animated to be relative to the men's chart, but that is something I will have to see if I can revise.
+* The National Team Match Revenue graph didn't add a lot, and the stacked bar graph structure made the purpose unclear. This is also kind of the point of the narrative in that there's not much different between the two teams' revenue, but I can look at it to see if I can make the visualization stand alone more without explanation.
+* Didn't understand the difference between bonus for making the World Cup team and U.S. Soccer bonuses. That's a terminology issue that I can explain. I'll need to highlight the difference between FIFA and U.S. Soccer as separate entities.
+* The warm colors for the Match Type by Team chart are jarring after the cool theme that's established. It makes it seem like the most important. I can definitely look at the color scheme. I made this chart before many of the others and didn't realize my color scheme would end being two colors. But I also don't want to use the colors that I've associated with each team, so I'll have to figure out a scheme that differentiates but doesn't stand out.
+
+
+### Updated Wireframe
+I created an updated wireframe of my project using the feedback I received from my interviews. However, since most of my feedback was regarding my charts, I will update those for the final project.
+
+![Final Project Wireframe](final-project-wireframe-2.png)
