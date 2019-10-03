@@ -57,7 +57,7 @@ My target audience is my Telling Stories with Data class, which is comprised of 
 
 My approach in selecting representative individuals to interview is to select people with varying levels of knowledge about U.S. Women’s Soccer and this lawsuit in general. Before selecting who to interview, I will screen them based on how much they’ve been following the USWNT’s equal pay lawsuit to ensure that I don’t only interview people who know nothing about the lawsuit or vice versa as that could cause bias in the interview results (and therefore my final project).
 
-I used a google form to collect responses. To see my interview script, you can view the form<a href="https://docs.google.com/forms/d/e/1FAIpQLSdBDjBkMqPB_-fpbt8DoxVhjOaPZwCWGmWXpBSN_KHK5U0roQ/viewform" target="_blank">here</a>.
+I used a google form to collect responses. To see my interview script, you can view the form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBDjBkMqPB_-fpbt8DoxVhjOaPZwCWGmWXpBSN_KHK5U0roQ/viewform" target="_blank">here</a>.
 
 ### User Research Findings
 
