@@ -84,6 +84,6 @@ Some findings from my interviews:
 
 
 ### Updated Wireframe
-I created an updated wireframe of my project using the feedback I received from my interviews. However, since most of my feedback was regarding my charts, I will update those for the final project.
+I created an updated wireframe of my project using the feedback I received from my interviews. I updated the section titles and added more story context. However, since most of my feedback was regarding my charts, I will update those for the final project.
 
 ![Final Project Wireframe](final-project-wireframe-2.png)
