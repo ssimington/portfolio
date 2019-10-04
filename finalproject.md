@@ -63,7 +63,7 @@ I also used <a href="https://canva.com" target="_blank">Canva</a> to create a st
 ![Storyoard](equal-pay-storyboard.png)
 
 ### User Research Protocol
-My target audience is my Telling Stories with Data class, which is comprised of graduate students from Heinz College. These students come from many different places within the United States, as well as internationally. They are made up of a diverse mix of degree concentrations from arts management to public policy. Because of this diversity, they will have varying knowledge and interest in soccer and this specific lawsuit. I will have to avoid or explain sports jargon as well as financial lingo from the lawsuit (for instance - “friendly” for game and “CBA” for collective bargaining agreement).
+My target audience is fans of the USWNT, as well as anyone who is interested in their lawsuit or gender equality activism. Consequently, my target audience represents a broad range of people from different backgrounds and experiences. Because of this diversity, they will have varying knowledge and interest in soccer and this specific lawsuit. I will have to avoid or explain sports jargon as well as financial lingo from the lawsuit (for instance - “friendly” for game and “CBA” for collective bargaining agreement).
 
 My approach in selecting representative individuals to interview is to select people with varying levels of knowledge about U.S. Women’s Soccer and this lawsuit in general. Before selecting who to interview, I will screen them based on how much they’ve been following the USWNT’s equal pay lawsuit to ensure that I don’t only interview people who know nothing about the lawsuit or vice versa as that could cause bias in the interview results (and therefore my final project).
 
