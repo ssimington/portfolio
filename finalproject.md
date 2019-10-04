@@ -1,3 +1,5 @@
+# Final Project
+
 ## Part 1
 ### Outline
 For my final project, I will be diving into the pay disparity between the U.S. men's and women's national soccer teams. I will use available data to investigate and analyze the team's compensation formulas under their respective collective bargaining agreements, and then compare those findings with match records and revenue of the two teams. I'm particularly interested in showing how many matches each team would have to play/win/lose in a single season to receive equal pay under their current collective bargaining agreements.
