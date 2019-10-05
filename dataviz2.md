@@ -1,7 +1,7 @@
 # Data Visualization #2
 
 ## Bar Chart
-For this assgignment, we first used [https://data.oecd.org](https://data.oecd.org) to create a bar chart with its downloadable datasets. I chose to highlight the fact that nations bordering the Mediterranean Sea have some of the highest debt-to-GDP ratios in the European Union. I love the interactivity of this chart and how easy it was to customize and play with the data.
+For this assignment, we first used <a href="https://data.oecd.org" target="_blank">https://data.oecd.org</a> to create a bar chart with its downloadable datasets. I chose to highlight the fact that nations bordering the Mediterranean Sea have some of the highest debt-to-GDP ratios in the European Union. I love the interactivity of this chart and how easy it was to customize and play with the data.
 <iframe src="https://data.oecd.org/chart/5FS3" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5FS3" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 Source: OECD (2019), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 13 September 2019)
 
