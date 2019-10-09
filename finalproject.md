@@ -89,3 +89,31 @@ Some findings from my interviews:
 I created an updated wireframe of my project using the feedback I received from my interviews. I updated the section titles and added more story context. However, since most of my feedback was regarding my charts, I will update those for the final project.
 
 ![Final Project Wireframe](final-project-wireframe-2.png)
+
+
+## Part 3
+### Target Audience
+As previously stated, My target audience is fans of the USWNT, as well as anyone who is interested in their lawsuit or gender equality activism. Consequently, my target audience represents a broad range of people from different backgrounds and experiences. Because of this diversity, they will have varying knowledge and interest in soccer and this specific lawsuit.
+
+I tried to keep this in mind when writing out my narrative for my final project. I either avoided or explained sports jargon as well as financial lingo from the lawsuit. I defined and explained the difference between U.S. Soccer and FIFA. I defined and explained "collective bargaining agreement." Instead of using the phrase "friendly," I used "regular game" or "match."
+
+### Design Updates
+For my final project, I implemented the findings from my user research.
+
+* I spelled out the team names in my project narrative rather than using acronyms.
+* I left the chart for win bonus with base salary the same, but I explained the chart in my narrative, so hopefully it is not misleading.
+* I redesigned the FIFA World Cup Winnings chart to be two separate charts and more to scale. I could not do them both entirely to scale because you could not even see the circle for $4 million compared to $400 million because it was too small. The second chart for 1st place prize is magnified 4x in scale to be readable.
+* I also added narrative to the National Team Match Revenue graph to highlight the fact that there's not much distinction between the two teams.
+* I wrote an entire section explaining the difference between U.S. Soccer Federation and FIFA. 
+* I redesigned the Match Type by Team chart to match the color scheme and used soccer balls in the design to make it a little more interesting and fun.
+
+I also wrote out the narrative, walking the reader through the USWNT's arguments and verifying those arguments with data. I used my mood board to collect photos from Getty Images to help tell the story along with the narrative and charts. Finally, I added a section on what's next for the team and what the reader can do to help.
+
+I found that once I outlined my main four arguments, the rest of the story came together quickly. I first designed my charts around my four points, and then I wrote out the story, explaining the charts as I went. Although we weren't asked to create our actual charts in part 2, it was easier for me to formulate my story knowing what my charts looked like. I'm also glad that I designed them early because it gave me plenty of time to get feedback and redesign or make changes. 
+
+For the presentation aspect, it was difficult to narrow down my project into 60 seconds because I'm really excited about how it turned out. In the end, I decided to focus just on my 4th argument, as well as what's next and what you can do. The media has talked a lot about revenue and compensation, but those aren't actually the most compelling arguments when you look at the data, so I chose to focus on expenditures for my presentation. (But I wish I could show the whole thing!)
+
+### Final Project Links
+* <a href="https://github.com/ssimington/portfolio" target="_blank">Github repository</a>
+* Shorthand
+* <a href="https://docs.google.com/document/d/1ftre1Jz-AoPIcOrF2wkxFnN5bJl4_EClq8HZvA5iRuk/edit?usp=sharing" target="_blank">Bibliography</a>
