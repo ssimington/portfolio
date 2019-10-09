@@ -107,7 +107,7 @@ For my final project, I implemented the findings from my user research.
 * I wrote an entire section explaining the difference between U.S. Soccer Federation and FIFA. 
 * I redesigned the Match Type by Team chart to match the color scheme and used soccer balls in the design to make it a little more interesting and fun.
 
-I also wrote out the narrative, walking the reader through the USWNT's arguments and verifying those arguments with data. I used my mood board to collect photos from Getty Images to help tell the story along with the narrative and charts. Finally, I added a section on what's next for the team and what the reader can do to help.
+I also wrote out the narrative, walking the reader through the USWNT's arguments and verifying those arguments with data. I used my mood board to collect photos from Getty Images to help tell the story along with the narrative and charts. Finally, I added a sections on what's next for the team, what the reader can do to help and where to learn more (with links to all my sources).
 
 I found that once I outlined my main four arguments, the rest of the story came together quickly. I first designed my charts around my four points, and then I wrote out the story, explaining the charts as I went. Although we weren't asked to create our actual charts in part 2, it was easier for me to formulate my story knowing what my charts looked like. I'm also glad that I designed them early because it gave me plenty of time to get feedback and redesign or make changes. 
 
