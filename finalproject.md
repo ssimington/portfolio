@@ -115,5 +115,5 @@ For the presentation aspect, it was difficult to narrow down my project into 60 
 
 ### Final Project Links
 * <a href="https://github.com/ssimington/portfolio" target="_blank">Github repository</a>
-* Shorthand
+* <a href="https://carnegiemellon.shorthandstories.com/simington/index.html" target="_blank">Shorthand Presentation</a>
 * <a href="https://docs.google.com/document/d/1ftre1Jz-AoPIcOrF2wkxFnN5bJl4_EClq8HZvA5iRuk/edit?usp=sharing" target="_blank">Bibliography</a>
