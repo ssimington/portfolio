@@ -97,7 +97,7 @@ As previously stated, My target audience is fans of the USWNT, as well as anyone
 
 I tried to keep this in mind when writing out my narrative for my final project. I either avoided or explained sports jargon as well as financial lingo from the lawsuit. I defined and explained the difference between U.S. Soccer and FIFA. I defined and explained "collective bargaining agreement." Instead of using the phrase "friendly," I used "regular game" or "match."
 
-### Design Updates
+### Project Updates & Process
 For my final project, I implemented the findings from my user research.
 
 * I spelled out the team names in my project narrative rather than using acronyms.
@@ -107,17 +107,19 @@ For my final project, I implemented the findings from my user research.
 * I wrote an entire section explaining the difference between U.S. Soccer Federation and FIFA. 
 * I redesigned the Match Type by Team chart to match the color scheme and used soccer balls in the design to make it a little more interesting and fun.
 
-![FIFA World Cup Winnings](FIFA-wc-winnings.png)
-
-![FIFA 1st Place Winnings](FIFA-1st-place.png)
-  
-![Match Type by Team](match-type.png)
-
 I also wrote out the narrative, walking the reader through the USWNT's arguments and verifying those arguments with data. I used my mood board to collect photos from Getty Images to help tell the story along with the narrative and charts. Finally, I added a sections on what's next for the team, what the reader can do to help and where to learn more (with links to all my sources).
 
 I found that once I outlined my main four arguments, the rest of the story came together quickly. I first designed my charts around my four points, and then I wrote out the story, explaining the charts as I went. Although we weren't asked to create our actual charts in part 2, it was easier for me to formulate my story knowing what my charts looked like. I'm also glad that I designed them early because it gave me plenty of time to get feedback and redesign or make changes. 
 
 For the presentation aspect, it was difficult to narrow down my project into 60 seconds because I'm really excited about how it turned out. In the end, I decided to focus just on my 4th argument, as well as what's next and what you can do. The media has talked a lot about revenue and compensation, but those aren't actually the most compelling arguments when you look at the data, so I chose to focus on expenditures for my presentation. (But I wish I could show the whole thing!)
+
+### Updated Designs
+
+![FIFA World Cup Winnings](FIFA-wc-winnings.png)
+
+![FIFA 1st Place Winnings](FIFA-1st-place.png)
+  
+![Match Type by Team](match-type.png)
 
 ### Final Project Links
 * <a href="https://github.com/ssimington/portfolio" target="_blank">Github repository</a>
