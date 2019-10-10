@@ -97,7 +97,7 @@ As previously stated, My target audience is fans of the USWNT, as well as anyone
 
 I tried to keep this in mind when writing out my narrative for my final project. I either avoided or explained sports jargon as well as financial lingo from the lawsuit. I defined and explained the difference between U.S. Soccer and FIFA. I defined and explained "collective bargaining agreement." Instead of using the phrase "friendly," I used "regular game" or "match."
 
-### Project Updates & Process
+### Project Updates
 For my final project, I implemented the findings from my user research.
 
 * I spelled out the team names in my project narrative rather than using acronyms.
